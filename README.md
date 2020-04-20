@@ -4,8 +4,6 @@
   <img width="1000" src="https://github.com/theusdev/gymcontrol/blob/master/src/app/views/Projeto-Gym-Management-concluido.gif">
 </p>
                                                                                                       
-<br>  <br>
-
 # 🔥 O Projeto
 <p align="justify">
   O Projeto faz parte dos desafios do curso Lanchbase da <a href="https://github.com/Rocketseat">Rocketseat</a>, nessa aplicação desenvolvemos um sistema web que controla
