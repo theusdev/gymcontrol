@@ -23,6 +23,16 @@ header {
     box-sizing: border-box;
 }
 
+.logo {
+  display: flex;
+  justify-content: left;
+}
+
+.logo img {
+    position: absolute;
+    top: 16px;
+}
+
 .links {
     font-size: 22px;
 }
@@ -41,7 +51,6 @@ header {
 .links a.active {
     font-weight: bold;
     color: var(--rocket-color);
-    
 }
 
 .links a:hover {
@@ -63,6 +72,10 @@ header {
 .links a:hover::after {
     width: 100%;
     transition: width 500ms ease-in-out;
+}
+
+.links a img {
+    text-align: left;
 }
 
 /* ==CARD== */
@@ -321,10 +334,20 @@ tbody tr td:nth-child(2) {
 .pagination span {
     color: var(--segunda-cor);
     text-decoration: none;
-    margin-right: 16px;
+    margin-right: 8px;
 }
 
 .pagination a:hover {
     filter: brightness(0.3);
     border-bottom: 1px solid var(--segunda-cor)
+}
+
+.pagination a {
+    padding: 8px 16px;
+    background-color: var(--segunda-cor);
+    color: white;
+    border-radius: 8px;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
 }
