@@ -6,8 +6,7 @@
                                                                                                       
 # 🔥 O Projeto
 <p align="justify">
-  O Projeto faz parte dos desafios do curso Lanchbase da <a href="https://github.com/Rocketseat">Rocketseat</a>, nessa aplicação desenvolvemos um sistema web que controla
-intrutores e alunos de uma academia, colocando no mesmo informações essênciais para o desenvolvimento do trabalho.
+  O projeto faz parte dos desafios do curso Launchbase da <a href="https://github.com/Rocketseat">Rocketseat</a>, nessa aplicação desenvolvemos um sistema web que controla instrutores e alunos de uma academia, colocando no mesmo informações essenciais para o desenvolvimento do trabalho.
 </p>
 <hr>
 
